@@ -8,7 +8,7 @@ function Header() {
       <h1 className={headerStyles.title}>
         <span>Robert</span> cego
       </h1>
-      <p className={headerStyles.description}>A front end developer.</p>
+      <p className={headerStyles.description}>FrontEnd Developer.</p>
     </div>
   );
 }
