@@ -1,12 +1,9 @@
-import Head from 'next/head';
-
-export default function Home() {
+const Home = () => {
   return (
     <div>
-      <Head>
-        <title>Home</title>
-      </Head>
-      <h1>This is NextJS 😉</h1>
+      <h1>Home!</h1>
     </div>
   );
-}
+};
+
+export default Home;
